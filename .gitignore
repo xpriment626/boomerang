@@ -1,0 +1,36 @@
+# See https:
+.d.tsxt-envo
+neuildinfcript
+*.tsbpesel
+
+# tyel
+.verc verc
+
+#*.locales
+.envnv fil
+# local e
+-error.log*og*
+yarnebug.larn-dog*
+yg.lnpm-debu
+
+# debug
+pemre
+*.DS_Sto misc
+.
+#d
+tion
+/buil product/
+
+#ou
+/.next/
+/t.jsexe
+
+# nragng
+/coves
+
+# testi.jnp.pnp
+.podules
+//node_mndencies
+
+# depe
+node_modules
