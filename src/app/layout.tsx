@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Boomerang MVP',
-  description: 'A simple task management application',
+  title: 'Boomerang - AI-Powered Returns Processing for Fashion Retailers',
+  description: 'Transform your fashion returns workflow with intelligent automation. Process returns 80% faster, reduce fraud, and delight customers with AI-powered decisions.',
 }
 
 export default function RootLayout({
